@@ -1,1 +1,3 @@
-je suis un test
+<script>
+msg=btoa(encodeURIComponent(document.body.innerHTML))
+</script>
