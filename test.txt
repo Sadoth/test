@@ -1,3 +1,0 @@
-<script>
-msg=btoa(encodeURIComponent(document.body.innerHTML))
-</script>
